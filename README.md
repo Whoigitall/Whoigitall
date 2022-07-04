@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Whoigitall
 - 👀 I’m interested in  Product managment
 - 🌱 I’m currently learning  шт HSE 
-- 💞️ I’m looking to collaborate on elearning programming in Python
+- 💞️ I’m looking to collaborate on elearning programming in JS & Type Scrypt
+- 
 - 📫 How to reach me  https://www.facebook.com/Kakzhanov
 
 <!---
