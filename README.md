@@ -1,9 +1,14 @@
-- 👋 Hi, I'm @Aigitall
-- 👀 I'm interested in product management and AI startups
-- 🌱 I have a master's degree in digital product management from HSE Alumni
-- 💞️ I am looking for opportunities to collaborate in the field of e-learning programming in JS and Type Scrypt, Flutter, Python, as well as in the growing field of Vibe coding
-- 
-- 📫 How to reach me https://www.linkedin.com/in/kakzhanov
+Current Work
+
+- KYA protocol architecture
+- Agent audit logs (on-chain + off-chain)
+- Behavioral monitoring systems
+
+Writing
+
+- AI agents in finance
+- Accountability > trust
+- Why MCP is not enough
 
 <!---
 Whoigitall/Whoigitall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
